@@ -17,6 +17,6 @@ Human operate object with two hands to complete daily tasks
     <!-- conference -->
     <h3 align="center">ICCV 2025</h3>
     <!-- teaser -->
-    <video src="pour_water.mp4" width="640" height="480" controls></video>
+    <video src="demo.gif" width="640" height="480" controls></video>
 </p>
 
